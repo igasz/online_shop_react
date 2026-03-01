@@ -1,5 +1,7 @@
 # Online Shop (STORE)
-Wprowadzenie do Aplikacji Internetowych
+Kompleksowa aplikacja e-commerce typu Full-Stack, łącząca nowoczesny frontend w React z wydajnym serwerem Node.js. Projekt integruje zewnętrzne dane z FakeStoreAPI z autorskim systemem zarządzania opiniami, zamówieniami i autoryzacją użytkowników (JWT), oferując pełny cykl zakupowy od przeglądania po checkout.
+
+A comprehensive Full-Stack e-commerce application bridging a modern React frontend with a robust Node.js backend. The project integrates FakeStoreAPI data with a custom system for reviews, orders, and secure user authentication (JWT), providing a seamless end-to-end shopping experience.
 
 ## Autorzy:
 Iga Szaflik
